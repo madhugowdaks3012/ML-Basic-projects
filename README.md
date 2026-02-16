@@ -1,6 +1,5 @@
-## CODSOFT ML Internship Projects
 
-Explore machine learning projects from the CODSOFT internship. Predict customer churn, detect fraud, and filter SMS spam with these Jupyter notebooks.
+Explore machine learning projects , Predict customer churn, detect fraud, and filter SMS spam with these Jupyter notebooks.
 
 1. **Churn Prediction:** `CustomerChurnPrediction.ipynb`
 2. **Fraud Detection:** `FraudDetection.ipynb`
